@@ -38,7 +38,7 @@ void setup() {
 */
   lcd.begin(16, 2);
 
-  music.setVolume(5);ss
+  music.setVolume(5);sss
 }
 
 void loop() {
